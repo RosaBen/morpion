@@ -2,5 +2,6 @@ require 'bundler'
 Bundler.require
 require_relative 'lib/board'
 
-plateau = Board.new
-puts plateau.screen
+# plateau = Board.new
+# puts plateau.screen
+
